@@ -2006,6 +2006,7 @@ body.modal-open.side-layout {
     .side-content:not(.show) {
         box-shadow: none !important;
     }
+
 }
 
 @media (min-width: 1400px) {
