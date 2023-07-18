@@ -1791,15 +1791,14 @@ body.modal-open.side-layout {
 .site-logo {
     align-items: center;
     min-height: 2.75rem;
-    padding: 0rem 1.125rem;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 0.3125rem;
+    /* padding: 0rem 1.125rem; */
+    /* border-radius: 0.3125rem; */
     z-index: 1030;
-    font-size: 1.5rem;
-    font-weight: 700;
-    transition: all 0.3s ease 0s;
+    /* font-size: 1.5rem; */
+    /* font-weight: 700; */
+    /* transition: all 0.3s ease 0s;
     -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
+    backface-visibility: hidden; */
 }
 
 .site-logo img {
@@ -2840,4 +2839,8 @@ div.featherlight-iframe .featherlight-content {
 
 .icon__linkedin-color {
     color: #0072b1 !important
+}
+
+.text-primary {
+    color: var(--ga-color-original) !important
 }
